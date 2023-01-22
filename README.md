@@ -6,7 +6,7 @@ The purpose of this intro assignment is to print a specific 3x3 matrix and make 
 
 
 # Installation Requirements
-Requirements.txt specifies the version on Python and Numpy used.
+Requirements.txt specifies the version of Python and Numpy used.
 
 -Pip3 and python3: This can be checked by typing "python3 --version", "pip3 --version" into terminal.
 
